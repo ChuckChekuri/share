@@ -1,2 +1,2 @@
 # share
-template and files for sharing
+Sharing ideas, templates snippets, articles with others
